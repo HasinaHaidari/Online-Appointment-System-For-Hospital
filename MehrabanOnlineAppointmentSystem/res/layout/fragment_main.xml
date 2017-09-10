@@ -1,0 +1,69 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.mehrabanonlineappointmentsystem.MainActivity$PlaceholderFragment" >
+
+    <Button
+        android:id="@+id/Button01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="a"
+        android:text="@string/hearth_and_justice" />
+
+    <Button
+        android:id="@+id/Button08"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="s"
+        android:text="Teeth" />
+
+    <Button
+        android:id="@+id/Button07"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="b"
+        android:text="@string/orthopedic" />
+
+    <Button
+        android:id="@+id/Button06"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="c"
+        android:text="@string/rational_nervous" />
+
+    <Button
+        android:id="@+id/Button05"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="d"
+        android:text="@string/interior" />
+
+    <Button
+        android:id="@+id/Button04"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="e"
+        android:text="Children" />
+
+    <Button
+        android:id="@+id/Button03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="f"
+        android:text="Cutaneous" />
+
+    <Button
+        android:id="@+id/Button02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="g"
+        android:text="Maternity" />
+
+</LinearLayout>

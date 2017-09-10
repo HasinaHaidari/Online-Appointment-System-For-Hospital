@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mehraban Online Appointment System</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mehraban_departments">Mehraban Departments</string>
+    <string name="button">Button</string>
+    <string name="hearth_and_justice">Hearth and Justice</string>
+    <string name="orthopedic">Orthopedic</string>
+    <string name="rational_nervous">Rational Nervous</string>
+    <string name="interior">Interior</string>
+
+</resources>
